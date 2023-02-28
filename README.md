@@ -2,7 +2,7 @@
 [![](https://github.com/pingff/sorting/workflows/tests/badge.svg)](https://github.com/pingff/sorting/actions?query=workflow%3Atests)
 [![](https://github.com/pingg/sorting/workflows/extra_credit/badge.svg)](https://github.com/pingff/sorting/actions?query=workflow%3Atests)
 
-You will implement the merge and quick sort algorithms.
+You will implement the merge and quick sort algorithms
 
 **Learning Objectives:**
 

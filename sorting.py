@@ -76,7 +76,7 @@ def merge_sorted(xs, cmp=cmp_standard):
 
 def merge(left, right, cmp):
     """
-    Merges two sorted lists into a single sorted list.
+    Merges two sorted lists into a single sorted list
 
     Parameters:
     left (list): The left sorted list.
